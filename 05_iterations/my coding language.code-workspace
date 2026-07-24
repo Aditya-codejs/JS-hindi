@@ -8,12 +8,9 @@
 		},
 		{
 			"path": "../../practice"
-		},
-		{
-			"path": "../../mainpage"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "mainpage"
+		"liveServer.settings.multiRootWorkspaceName": "practice"
 	}
 }

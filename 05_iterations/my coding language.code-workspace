@@ -11,6 +11,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "practice"
+		"liveServer.settings.multiRootWorkspaceName": "practice",
+		"editor.suggest.snippetsPreventQuickSuggestions": true
 	}
 }

@@ -1,19 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".."
 		},
 		{
-			"path": "../JS hindi"
+			"path": "../../Genz Hustle"
 		},
 		{
-			"path": "../html"
+			"path": "../../html"
 		},
 		{
-			"path": "../Genz Hustle"
-		},
-		{
-			"path": "../practice"
+			"path": "../../practice"
 		}
 	],
 	"settings": {}

@@ -1,18 +1,5 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		},
-		{
-			"path": "../../html"
-		},
-		{
-			"path": "../../practice"
-		},
-		{
-			"path": "../../Genz Hustle"
-		}
-	],
+	"folders": [],
 	"settings": {
 		"liveServer.settings.multiRootWorkspaceName": "practice",
 		"editor.suggest.snippetsPreventQuickSuggestions": true
